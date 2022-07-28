@@ -1,0 +1,36 @@
+{
+  "headerSection": {
+    "mainHeading": "Ably and AWS",
+    "mainTagline": "Ably collaborates and integrates with Amazon Web Services (AWS) so we can better serve our developer community and enterprise customers.",
+    "buttons": [
+      { "text": "Get started with our APIS", "url": "#" },
+      { "text": "Talk to us", "url": "#" }
+    ]
+  },
+  "mainSection": {
+    "title": "Why Ably has partnered with AWS",
+    "rows": [
+      {
+        "title": "This is the first reason why we partner",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ac nunc porttitor, mollis turpis at, luctus dolor. Ut aliquam, mauris ac luctus sagittis, eros eros fringilla arcu, vitae condimentum turpis risus vel nunc. Integer metus velit, aliquam convallis malesuada eget, interdum ac sem. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse aliquet, arcu eu suscipit faucibus, massa ante volutpat lectus, et sagittis elit arcu at neque. Nam auctor mauris sed ante molestie semper. Proin at ligula quis risus convallis sagittis non et tellus.",
+        "link": { "text": "Learn more about Ably for serverless", "url": "#" },
+        "image": "https://images.ctfassets.net/ee3ypdtck0rk/2QJtZKeNoQ8A3gqZBZNjVb/cb167b0b55f53410f63a8e5281293819/publush-subscribe-channels-v1_4.png"
+      },
+      {
+        "title": "This is the second reason why we partner",
+        "body": "Donec congue pellentesque orci. Nullam massa libero, congue vitae lacinia id, gravida at leo. Ut purus libero, condimentum ac fermentum lobortis, laoreet sit amet ligula. Aliquam sed justo orci. Quisque faucibus erat libero, non fermentum justo consectetur laoreet. In ultrices justo vel dui sollicitudin auctor. Sed dignissim lacus varius, dictum mi non, eleifend neque.",
+        "link": { "text": "Learn more about second reason", "url": "#" },
+        "image": "https://images.ctfassets.net/ee3ypdtck0rk/2QJtZKeNoQ8A3gqZBZNjVb/cb167b0b55f53410f63a8e5281293819/publush-subscribe-channels-v1_4.png"
+      },
+      {
+        "title": "This is the third reason why we partner",
+        "body": "Sed fermentum enim cursus quam vehicula, in imperdiet lorem porta. Donec placerat, purus id eleifend tincidunt, sem ligula scelerisque nulla, fermentum consectetur diam dolor in nulla. Aenean molestie justo at massa tristique rutrum. Vivamus porta tempor condimentum. Praesent mollis volutpat dui vitae iaculis. Maecenas fermentum accumsan efficitur. Donec eu rhoncus libero.",
+        "link": { "text": "Learn more about third reason", "url": "#" },
+        "image": "https://images.ctfassets.net/ee3ypdtck0rk/2QJtZKeNoQ8A3gqZBZNjVb/cb167b0b55f53410f63a8e5281293819/publush-subscribe-channels-v1_4.png"
+      }
+    ]
+  },
+  "footer": {
+    "image": "https://images.ctfassets.net/ee3ypdtck0rk/50wFaU11QO5AL9vn4pbiI7/1908ee52fd328201288d191a797f0cc3/case-study-content-breaker-sprintcrowd-mono-1.png?w=1280&h=613&q=50&fm=webp"
+  }
+}
